@@ -1,0 +1,2 @@
+pyOpenSSL
+psycopg2-binary
